@@ -6,7 +6,7 @@
 
 ##  Features
 
--  Rule-based logic (no ML required)
+-  Rule-based logic 
 -  Recommends trending cryptos
 -  Highlights eco-friendly and sustainable coins
 -  Interactive chat with a friendly tone
@@ -49,6 +49,5 @@ crypto_db = {
 ```
 git clone https://github.com/Rahab19/PLP-Crypto-Chatbot.git
 cd PLP-Crypto-Chatbot
-
 ```
 
