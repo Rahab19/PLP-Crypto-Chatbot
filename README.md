@@ -43,10 +43,12 @@ crypto_db = {
     "sustainability_score": 8 / 10
   }
 }
+```
+## getting started 
 
-## Getting started
-``
+```
 git clone https://github.com/Rahab19/PLP-Crypto-Chatbot.git
 cd PLP-Crypto-Chatbot
 
-``
+```
+
